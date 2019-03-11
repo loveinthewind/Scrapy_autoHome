@@ -21,5 +21,5 @@ class AutohomeSpider(scrapy.Spider):
             #     print(url)
             # map()方法 可以去遍历列表，将列表中的每一项都执行某一个函数，再把函数的返回值当作一个新的列表返回回来
             urls = list(map(lambda url:response.urljoin(url),urls))
-            item = ScrapyAutohomeItem(category=category,urls=urls)
+            item = ScrapyAutohomeItem(category=category,image_urls=urls)
             yield item

@@ -10,4 +10,6 @@ import scrapy
 
 class ScrapyAutohomeItem(scrapy.Item):
     category = scrapy.Field()
-    urls = scrapy.Field()
+    # 定义两个属性：image_urls和images
+    image_urls = scrapy.Field()
+    images = scrapy.Field()
