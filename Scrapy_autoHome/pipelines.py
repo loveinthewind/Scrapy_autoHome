@@ -43,7 +43,7 @@ class autoHomeImagesPipeline(ImagesPipeline):
         # 这个方法是在图片将要被存储的时候调用，来获取这个图片存储的路径
         path = super(autoHomeImagesPipeline, self).file_path(request,response,info)
         category = request.item.get('category')
-        images_store = settings.IMAGES_STORE
+        images_store = settings.IMAGES_STORE  # 拿到在setting.py定义的IMAGES_STORE图片下载的路径
         category_path = os.path.join(images_store,category)
         if not os.path.exists(category_path):
             os.mkdir(category_path)

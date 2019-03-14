@@ -5,7 +5,7 @@ from Scrapy_autoHome.items import ScrapyAutohomeItem
 class AutohomeSpider(scrapy.Spider):
     name = 'autoHome'
     allowed_domains = ['car.autohome.com.cn']
-    start_urls = ['https://car.autohome.com.cn/pic/series/3704.html']
+    start_urls = ['https://car.autohome.com.cn/pic/series/172.html']
 
     def parse(self, response):
         # SelectorList类型 -> list

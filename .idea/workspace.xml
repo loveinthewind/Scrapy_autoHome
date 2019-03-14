@@ -4,62 +4,61 @@
     <list default="true" id="74bd2399-4e6c-494f-badd-25330de3eec5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scrapy_autoHome/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy_autoHome/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scrapy_autoHome/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy_autoHome/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/中控方向盘/03e04bdec1122e75a0d6d1a267c6b1562d572b2a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/中控方向盘/0b3e4b398b9df43737c93e18f0f8d939fb0cb905.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/中控方向盘/2d6196091bf971f49dd7d64a1202edc6b92dcbf9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/中控方向盘/3d57077871d760c730029b65fcf9b1e97ec70702.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/中控方向盘/80fbd2b890eb876f36c417e6dfcd5791a1d9c64e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ad57495eb8a0c8ff442155637c1a808a7e429ba0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/中控方向盘/bd6fb3d1475d8f9bf01689b2fc73e33dacf5e6da.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/中控方向盘/d18ffe54cba3b8f476f46ad008392cc0005715f3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/其它细节/1f38b9f7be923fce004803a363ba5ad80ddba93d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/其它细节/4cbfcbe8e34ef1c35a231ef8c8fbeddcfbf45efe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/其它细节/58b33a26288470e615fda1eec672bb34171b914c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/其它细节/696feab20e694f0236f9d22fc5f2d4273a741a77.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/其它细节/b2aa8b4a50911b618ac8c1b62d3770a7030122aa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/其它细节/c58dad9d7a0f3e22a3a5c123f1e00cf096a3abd2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/其它细节/e1547450ad8adc77468a20e175e03c33534c0016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/其它细节/f6b2bad13e3174a900da75d7226a12d84f68b3e3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/改装/27891367717b4c45ef8de28cf5bb3ff2e24ac009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/改装/2f54f169c3f709be7a62bd26b65a6b4c9e104d4a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/改装/441da554a4f7f54076632749d3f9f15620a8567d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/改装/73833cdecedc5883e567f7cd02e86c1cd7cfc240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/改装/acfa64c65d483fc293158092c244d63545524054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/改装/b2ecf20ea8ed8cd0295cc6acbb8fd5b9b5c558fa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/改装/d0cfc28446993c93861a97759147e4f42915485d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/改装/e0cba47e173ca2e37a61a6973bb78f83046555f3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/评测/18dcd512f20145a4fa63ea437fd3cfb4d88a2d11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/评测/2838461b40833e0e717ad9260a6e50963378a94d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/评测/5325cb8f2289bfd10e549b0f36c0c13f6b633bac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/评测/8867f81c1337854ba43d065da8370fb74dfacdaf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/评测/f9a1f98ce436da82f25b292d917d89fccd00a0cc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车厢座椅/160e99827831828ff024751108e44c9a29da75a2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车厢座椅/1eb9c59580136984f93282109f510d4a4a574ae3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车厢座椅/3325135d878ba53239817c42050b280dc7a32fdb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车厢座椅/5d8ddec72667ef5623d4c1de125120ecd6ef8519.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车厢座椅/9074a69efebd99d07aa6e55d02e5b169c781ef89.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车厢座椅/995130839942d751a775b4318e298559cc34616b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车厢座椅/f7efbee6ccfc92dd2fd48238a29bca6e732fee13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车厢座椅/fa04cffe9ad880f7c884827e5a0986a1b8c1a209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车身外观/3e5fedd5d79d3ab1732cbf5c99e073804c877762.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车身外观/4e2dbc6068345f491e7cb03be4173a48940e3755.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车身外观/4ef2e0edcd5b3795df28445f97b9885b236d291b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车身外观/7a14f1af1ab256f0c8cbd76047656ebd359b1f57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车身外观/8077281d726031d7aebf242be277bc883dd4926d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车身外观/85a9a10e73b0df38a01127a5660f2f7af56cbd5b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车身外观/bef491d95dc2a32faa49c8544e80d5ccef35ca9f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/车身外观/db386a2ad92cdb9a157bd8f6cb276395e8b5a704.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/重要特点/085e8143f3af72bcea8c3df79800d35ae0038e97.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/重要特点/2390d95a63573f2865c8c5ca9a4d4dbf3a93050a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/重要特点/39f446d17897a10429db0c6ada114ab2512690ab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/重要特点/7498942446ea6f6dba3f83fc69edb2f77c26ffbf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/重要特点/a331ebd30de3bf7f60f724aa759a984162d5bd1f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/重要特点/b3de6f420f215626bc758d323d702ec03cc152f7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/重要特点/f41490cbd59452dbef29057d91e9e811877d0991.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/重要特点/f980c73d92fca2308c59529d111945e5d29d7869.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome_HD.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome_HD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/295c0569750e6aea31d44f5ed3f8fd5202216e11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/776a8f42dd4c1ad31adc24cd6cdf183cf7da4875.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/97996886633c7b9d8cb7e66e1052d08667b17f13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/a68d70305159450894fde15a2e5b0fbe662215c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/ac349662a338451506ba08a0351d33522fa4a576.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/bbe258cd806e1493ba6d0a5cc33119de43289df3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/dde5f2aa02bcb2aad88b9beca630a10e472d3a11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/中控方向盘/eaccd6281dd1952169a921ee0bd9fe1bb8f84d4e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/302b8d9d63c23a327eaa005b6037740ecd2173ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/3eeaac8f34922653004ee2c008a81884e75bb47c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/8830a2ac6d13ecbc4d82666cc621abfe4896f828.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/a3c617b020a1d04be3bd94fa2d206dda356de8e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/b71d93a51879b59729c84cd31e3710021b8ea3f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/ba5c0094be5ba456ec558f0d45438af7a2b70397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/c91f7189f3d3287a8a13d97a209cf1210740b0d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/其它细节/d7ba0bf01dd28f4e0daf94b992fde5bde209f59a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/0949e73f159727bd899f6b5b77b51ce2b7fa857d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/0c252f697665f71da472ff3325fff99a3faa6a74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/0e4c5a20fb61c5a63ab3bd6157c44dd5fd3436cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/66b54352f3e9822ef8df1b9d4cae61d75b270344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/77f14a15d294a412eef10dcf41dbe574b7d82775.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/8db8e5c739b7aacc9080550b597e2c1abbbd3cdd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/add4ade788f4ab524ebfdf0cbc8f6b51b4032451.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/改装/b4bcba7aa96fede6eb0d6573ac30eb71b17636ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/205377610b0bf775f96e985c29bb741eb215890c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/2272e89d60a88e6250b0cfe6244c685d172a2c9a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/36b7b70c8b90c37b8107c67eafc97048cb2c9a96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/4c93a84640999b6e4b87993bf1abccd7bb5be52f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/评测/638f8a2533f60a75090ca705e82135c8fd5e7495.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/0a636079699df5b525b360463716ebaec59c5f03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/2911eaae38043254a98fa51b8e5b36edcd7f2b7a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/2aa0700926f071678da885f3a9aca7faa24d7614.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/44e4fea0e664eb0f60c3790651988d406baa9a22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/4c12f68b21981c89e8b4a8fac5f2938dbc5b1e30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/701b1aa87d8e7427ec1b473cb5cc68dc54047100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/c977d3b8c74113a478d594141f2bf39df0f2b94b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车厢座椅/e630783bda7a059f3726a5b317ec73881409880b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/347328c4e38bc19b7c18ebba2c37f7ee983aacbc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/4b6bac01b77806bdc4b47ce38c3caff8f7fadd17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/54da73a4d3291a7edf6ba55104df778e251cce71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/8e2f83690d6c30722a214fed233c6b2f5f15f5ba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/a9d5077ad9fd2ffca2fc2550bea8756af580e630.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/bb8de96d717f346ffe775129ff2035b931e4a6b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/f48341565387029080b6eab6e0befd17d73e2732.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/车身外观/f9364ce150fe69c22418b898c00547773870dcb1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/5093112d98d964f19c184836c4c4d352b5480ea8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/66238638fec44388edfe47cbea6577aaaf3c764b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/68fd61b4b84cdb19ad59c7201987c86119f55e47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/7091bace0e8f2944b979119f53aa2e36ef9c02e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/8a0f9ea4e9942017e3ae86282ccf9e0d5c2fa5c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/8a9f73f268417b5fae315c74f05bfec8bd2af7ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/90ebccbe89b6e516d02911b63e09dd4a6810d308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/重要特点/fd4990a5e440add01f2719c6b819bb2a350be074.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,14 +68,14 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Scrapy_autoHome$autoHome.coverage" NAME="autoHome Coverage Results" MODIFIED="1552113181114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_autoHome/spiders" />
-    <SUITE FILE_PATH="coverage/Scrapy_autoHome$start.coverage" NAME="start Coverage Results" MODIFIED="1552546299185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Scrapy_autoHome$start.coverage" NAME="start Coverage Results" MODIFIED="1552550165752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Scrapy_autoHome$os_demo.coverage" NAME="os_demo Coverage Results" MODIFIED="1552136012774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Scrapy_autoHome" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="734950563">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -87,22 +86,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3136" />
+          <entry key="py" value="3175" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3136" />
+          <entry key="Python" value="3175" />
         </counts>
       </usages-collector>
     </session>
@@ -121,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -133,11 +132,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome_HD.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+            <state relative-caret-position="-262">
+              <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
               <folding>
-                <element signature="e#1020#1033#0" expanded="true" />
-                <marker date="1552546262411" expanded="true" signature="1690:2561" ph="..." />
+                <marker date="1552551185974" expanded="true" signature="1690:2591" ph="..." />
               </folding>
             </state>
           </provider>
@@ -146,8 +144,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -155,11 +153,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="36" column="108" selection-start-line="36" selection-start-column="108" selection-end-line="36" selection-end-column="108" />
+            <state relative-caret-position="365">
+              <caret line="45" column="83" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="83" />
               <folding>
                 <element signature="e#193#202#0" expanded="true" />
-                <marker date="1552532706224" expanded="true" signature="380:624" ph="..." />
+                <marker date="1552547642275" expanded="true" signature="380:624" ph="..." />
               </folding>
             </state>
           </provider>
@@ -168,8 +166,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="460">
+              <caret line="96" column="29" selection-start-line="96" selection-start-column="29" selection-end-line="96" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -192,10 +190,10 @@
         <option value="$PROJECT_DIR$/os_demo.py" />
         <option value="$PROJECT_DIR$/Scrapy_autoHome/os_demo.py" />
         <option value="$PROJECT_DIR$/Scrapy_autoHome/items.py" />
-        <option value="$PROJECT_DIR$/Scrapy_autoHome/pipelines.py" />
-        <option value="$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome.py" />
         <option value="$PROJECT_DIR$/start.py" />
         <option value="$PROJECT_DIR$/Scrapy_autoHome/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy_autoHome/pipelines.py" />
+        <option value="$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome.py" />
         <option value="$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome_HD.py" />
       </list>
     </option>
@@ -224,11 +222,6 @@
             <path>
               <item name="Scrapy_autoHome" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scrapy_autoHome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scrapy_autoHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scrapy_autoHome" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Scrapy_autoHome" type="b2602c69:ProjectViewProjectNode" />
@@ -372,7 +365,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5443686" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52730376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,14 +435,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="36" column="108" selection-start-line="36" selection-start-column="108" selection-end-line="36" selection-end-column="108" />
-          <folding>
-            <element signature="e#193#202#0" expanded="true" />
-            <marker date="1552532706224" expanded="true" signature="380:624" ph="..." />
-          </folding>
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -462,44 +451,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start.py">
+    <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="45" column="83" selection-start-line="45" selection-start-column="83" selection-end-line="45" selection-end-column="83" />
+          <folding>
+            <element signature="e#193#202#0" expanded="true" />
+            <marker date="1552547642275" expanded="true" signature="380:624" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="460">
+          <caret line="96" column="29" selection-start-line="96" selection-start-column="29" selection-end-line="96" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scrapy_autoHome/spiders/autoHome_HD.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+        <state relative-caret-position="-262">
+          <caret line="25" column="59" lean-forward="true" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
           <folding>
-            <element signature="e#1020#1033#0" expanded="true" />
-            <marker date="1552546262411" expanded="true" signature="1690:2561" ph="..." />
+            <marker date="1552551185974" expanded="true" signature="1690:2591" ph="..." />
           </folding>
         </state>
       </provider>
